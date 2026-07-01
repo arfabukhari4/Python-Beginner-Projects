@@ -1,0 +1,190 @@
+# 🎯 SkillQuest – Career Discovery
+
+A beginner-friendly Python mini project that helps users discover a suitable technology career based on their interests, favorite subject, strengths, and skill level.
+
+Developed as part of the **AI Powered Python Internship** using **Python Fundamentals**, **HTML**, and **CSS** on **Google Colab**.
+
+
+## 📌 Project Overview
+
+SkillQuest is an interactive career guidance application that asks users a few simple questions and recommends a suitable IT career path.
+
+The project demonstrates Python fundamentals while generating an attractive HTML-based career report.
+
+
+## ✨ Features
+
+- 👤 User Information Collection
+- 💼 Career Recommendation
+- 📚 Required Skills
+- 🛣️ Personalized Learning Roadmap
+- 🌟 Random Motivation Quote
+- 🏆 Achievement Badge
+- 📊 Progress Indicator
+- 🎨 Beautiful HTML & CSS Career Report
+- ✅ Beginner-Friendly Python Code
+
+
+## 🛠️ Technologies Used
+
+- Python
+- HTML
+- CSS
+- Google Colab
+- IPython Display Module
+
+
+## 📚 Python Concepts Used
+
+- Variables
+- Data Types
+- Input & Output
+- Conditional Statements (`if`, `elif`, `else`)
+- Lists
+- Loops
+- Functions (Basic Concepts)
+- Random Module
+- HTML Integration
+- CSS Styling
+
+
+## 📂 Project Structure
+
+```
+SkillQuest-Career-Discovery/
+│
+├── SkillQuest_Career_Discovery.py
+├── README.md
+└── screenshots/
+    ├── home_page.png
+    ├── user_input.png
+    └── career_report.png
+```
+
+
+## 🚀 How to Run
+
+### Google Colab
+
+1. Open Google Colab.
+2. Upload the Python file.
+3. Run all cells.
+4. Enter your details.
+5. View your personalized career report.
+
+### Local Machine
+
+```bash
+python SkillQuest_Career_Discovery.py
+```
+
+> **Note:** The HTML report is best viewed in Google Colab because it uses `IPython.display.HTML`.
+
+
+## 📷 Sample Output
+
+The application displays:
+
+- Home Page
+- User Input Section
+- Career Recommendation
+- Learning Roadmap
+- Motivation Quote
+- HTML Career Report
+
+*(You can add screenshots inside the `screenshots` folder and update this section.)*
+
+
+## 🎯 Career Options Included
+
+- 🤖 AI Engineer
+- 🌐 Web Developer
+- 📊 Data Analyst
+- 🔐 Cyber Security Analyst
+- 📱 Android Developer
+- 🎨 UI/UX Designer
+
+
+## 📖 Learning Roadmap Example
+
+Example roadmap:
+
+```
+Learn Python
+      ↓
+Programming Fundamentals
+      ↓
+Mini Projects
+      ↓
+Git & GitHub
+      ↓
+Portfolio Development
+      ↓
+Internships
+      ↓
+Career Growth
+```
+
+---
+
+## 💡 Motivation
+
+Every time the program runs, it displays a random motivational quote such as:
+
+> "Success begins with learning."
+
+or
+
+> "Consistency beats talent."
+
+
+## 🎓 Educational Purpose
+
+This project was created for educational purposes to practice:
+
+- Python Programming
+- HTML
+- CSS
+- Problem Solving
+- Career Guidance Logic
+
+
+## 👩‍💻 Author
+
+**Arfa Bukhari**
+
+- BS Information Technology
+- 3rd Semester
+- AI Powered Python Internship
+- Python Beginner
+- Aspiring AI & Software Developer
+
+
+## 🤝 Contributions
+
+Suggestions and improvements are always welcome.
+
+Feel free to:
+
+- Fork this repository
+- Create a new branch
+- Submit a Pull Request
+
+
+## ⭐ Support
+
+If you found this project helpful, please consider giving it a ⭐ on GitHub.
+
+
+## 📄 License
+
+This project is created for educational and learning purposes.
+
+Free to use, modify, and share with proper credit.
+
+
+## 🌟 Thank You
+
+Thank you for visiting this repository.
+
+Happy Coding! 🚀
