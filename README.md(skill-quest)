@@ -1,0 +1,133 @@
+# 🎯 SkillQuest – Career Discovery
+
+A beginner-friendly Career Discovery System built using **Python**, **HTML**, and **CSS**. This project recommends a suitable technology career based on the user's interests, favorite subject, strengths, and skill level. It also provides a personalized learning roadmap, required skills, achievement badges, motivational quotes, and an attractive HTML report.
+
+---
+
+# 📖 Project Information
+
+| Title | Details |
+|--------|---------|
+| **Project Title** | SkillQuest – Career Discovery |
+| **Student Name** | Arfa Bukhari |
+| **Program** | BS Information Technology |
+| **Semester** | 3rd Semester |
+| **Course** | Python Programming |
+| **Internship** | AI Powered Python Internship |
+| **Platform** | MISSALPHA Learning Hub |
+| **Submitted To** | Miss Shalini Verma |
+| **Language** | Python |
+| **Technologies** | Python, HTML, CSS |
+
+---
+
+# 📝 Project Description
+
+SkillQuest is a beginner-friendly career guidance application developed using Python fundamentals.
+
+The program recommends a suitable technology career according to the user's interests, favorite subject, strengths, and skill level. It also provides the required skills, a learning roadmap, achievement badges, progress level, motivational quotes, and a beautiful HTML-based career report to guide students toward their future career.
+
+---
+
+# ✨ Features
+
+- 🎯 Career Recommendation System
+- 👤 User Profile Collection
+- 💼 Technology Career Suggestions
+- 📚 Required Skills for Each Career
+- 🛣️ Personalized Learning Roadmap
+- 🏅 Achievement Badges
+- 📊 Progress Indicator
+- 🌟 Random Motivational Quotes
+- 🎨 Attractive HTML & CSS Career Report
+
+---
+
+# 💻 Career Options Included
+
+- 🤖 AI Engineer
+- 🌐 Web Developer
+- 📊 Data Analyst
+- 🔐 Cyber Security Analyst
+- 📱 Android Developer
+- 🎨 UI/UX Designer
+
+---
+
+# 📚 Python Concepts Used
+
+- Variables
+- Input / Output
+- Data Types
+- if, elif, else
+- Lists
+- Random Module
+- HTML
+- CSS
+
+---
+
+# 📂 Project Structure
+
+```
+SkillQuest-Career-Discovery/
+│
+├── README.md
+├── SkillQuest_Career_Discovery.py
+└── Screenshots/
+```
+
+---
+
+# ▶️ How to Run
+
+1. Download or clone this repository.
+2. Open the project in **Google Colab** or any Python IDE.
+3. Run the Python program.
+4. Enter your name.
+5. Select your area of interest.
+6. Enter your favorite subject.
+7. Enter your biggest strength.
+8. Choose your skill level.
+9. View your personalized career report.
+
+---
+
+# 🚀 Future Improvements
+
+- Add more career options
+- Include personality-based career assessment
+- Generate downloadable PDF reports
+- Save user career history
+- Add career comparison feature
+- Integrate AI-powered career recommendations
+- Build a graphical user interface (GUI)
+- Add user login and profile management
+
+---
+
+# 👩‍💻 Developer
+
+**Arfa Bukhari**
+
+BS Information Technology Student
+
+Aspiring Python Developer
+
+AI Enthusiast
+
+---
+
+# 📄 License
+
+This project is created for learning and educational purposes.
+
+---
+
+# ⭐ Thank You
+
+Thank you for visiting this repository!
+
+If you found this project helpful, don't forget to ⭐ star the repository.
+
+Happy Coding! 🚀
