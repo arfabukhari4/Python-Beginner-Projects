@@ -1,0 +1,10 @@
+============================================================
+🎉 CAREER REPORT GENERATED SUCCESSFULLY!
+============================================================
+Name     : Arfa Bukhari
+Career   : AI Engineer
+Level    : Intermediate
+Progress : 87 %
+Badge    : 🥈 Growing Professional
+
+Thank you for using SkillQuest!

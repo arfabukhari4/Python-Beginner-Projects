@@ -1,0 +1,24 @@
+============================================================
+WELCOME TO SKILLQUEST
+============================================================
+Enter Your Name : Arfa Bukhari
+
+Choose Your Interest
+1. Artificial Intelligence
+2. Web Development
+3. Data Science
+4. Cyber Security
+5. Mobile App Development
+6. UI/UX Design
+Enter Choice : 1
+
+Favorite Subject : Python Programming
+Your Biggest Strength : Logic & Problem Solving
+
+Choose Your Skill Level
+1. Beginner
+2. Intermediate
+3. Advanced
+Enter Choice : 2
+
+Generating Career Report...
